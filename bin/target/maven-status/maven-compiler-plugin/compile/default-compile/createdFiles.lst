@@ -1,0 +1,5 @@
+com/merlincrm/Application.class
+com/merlincrm/application/config/AppCofig.class
+com/merlincrm/application/web/ApplicationController.class
+com/merlincrm/application/domain/Document.class
+com/merlincrm/application/domain/Application.class

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: student-application
+Implementation-Version: 0.0.1
+Built-By: yaosu
+Implementation-Vendor-Id: com.merlincrm
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/student-application
+Created-By: Maven Integration for Eclipse
+
